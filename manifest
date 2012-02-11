@@ -1,0 +1,3 @@
+Main-Class: taatudi.rsg.RSG
+Class-Path: jar/lwjgl.jar jar/slick-util.jar jar/slick.jar
+
